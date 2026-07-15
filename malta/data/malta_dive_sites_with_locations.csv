@@ -1,0 +1,234 @@
+#,island,location,site,interest,popularity,#_of_ratings,avg,shore_access,qualification,depth_avg,depth_max,description,depth_max_clean,latitude,longitude
+1,Malta,Cirkewwa,,Cave & Reef & Wall & Wreck,High,5,4.2,Easy,Beginner,5+m,30+m,"Cirkewwa has many popular dive sites in Malta: Cirkewwa Arch, Patrol Boat P29 & Tugboat Rozi wrecks, Susie's Pool, Madonna statue and wall reef with swimthroughs.",30.0,35.9890916,14.3290837
+2,Malta,Cirkewwa,"P29 (Patrol Boat P29, Boltenhagen)",Wreck,High,10,4.4,Easy,Advanced,20m,34m,Patrol Boat P29 (Boltenhagen) is a popular wreck dive in Malta. P29 was 52m patrol boat that was scuttled 2007 in Cirkewwa. Wreck is at 34m depth.,34.0,35.9890916,14.3290837
+3,Malta,Cirkewwa,"Rozi (MV Rozi, Tug Boat Rozi, Rozy)",Reef & Wreck,High,7,4.4,Easy,Advanced,20m,34m,Tugboat Rozi is a popular wreck dive in Malta. Rozi was 35m tug boat that was scuttled in 1992. The wreck rests off shore from Cirkewwa with max depth 34m.,34.0,35.9890916,14.3290837
+4,Malta,Cirkewwa,"Arch (Cirkewwa Arch, Right Arch, Green Arch Reef, Right Reef)",Cave & Reef,High,7,3.3,Easy,Beginner,15m,25m,"Cirkewwa Arch dive site is a beautiful natural underwater archway in Malta, 12 metres below the surface and 8 metres above the seabed.",25.0,35.9890916,14.3290837
+5,Malta,Cirkewwa,Paradise Bay (Left Reef),Reef,Medium,4,3.3,Easy,Beginner,10m,30m,"Paradise Bay reef dive in Cirkewwa offers rock formations, boulder fields, sandy bottoms, sea grass, drop-offs, swim-throughs and natural rock arch.",30.0,35.9890916,14.3290837
+6,Malta,Cirkewwa,Susie's Pool,Reef,High,4,3.0,Easy,Beginner,5m,18m,"Susie's Pool is shallow diving area in Cirkewwa, often used to practice skills. Halfway along reef wall there is Madonna statue in small cave.",18.0,35.9890916,14.3290837
+7,Malta,Cirkewwa,"Reef Beyond Rozi (Right Reef, North Reef)",Reef & Wall,Low,4,4.0,Medium,Technical,20m,45+m,Reef Beyond Rozi is a nice wall reef with caves and overhangs far behind tugboat Rozi wreck and Cirkewwa Arch. Challenging dive site with max depth over 40m.,45.0,35.9890916,14.3290837
+8,Malta,Ghar Lapsi,,Cave & Reef & Wall,High,3,3.7,Easy,Beginner,6m,25m,"Ghar Lapsi has many shallow dive sites: 40m cave system, reefs with caves & walls (Finger Reef, Middle Reef, Black John), and underwater nativity scene (Crib).",25.0,35.8268645,14.4234201
+9,Malta,Ghar Lapsi,Cave,Cave,High,4,4.3,Easy,Advanced,5m,12m,Ghar Lapsi Cave dive site is 40m long shallow cave system in Malta with lots of cracks that allow plenty of sunlight to seek in making the cave full of color.,12.0,35.8268645,14.4234201
+10,Malta,Ghar Lapsi,Finger Reef,Cave & Reef & Wall,High,3,3.3,Easy,Beginner,7m,20m,"Finger Reef dive site in Ghar Lapsi is finger shaped reef with small wall, and cave with hole in roof, which one can exit through. Max depth of dive is 20m.",20.0,35.8268645,14.4234201
+11,Malta,Ghar Lapsi,Middle Reef,Reef,Medium,3,3.0,Easy,Beginner,10m,12m,"Middle Reef consists of several reefs, surrounded by sand, sea grass & small boulders. Middle Reef is shallowest dive site in Ghar Lapsi, with max depth 12m.",12.0,35.8268645,14.4234201
+12,Malta,Ghar Lapsi,Crib (Crib Reef),Wreck,Medium,2,2.0,Easy,Advanced,15m,22m,Crib dive site in Ghar Lapsi is an underwater nativity scene with almost life-sized figures. Crib is located under an overhang on the outer reef at 22m.,22.0,35.8268645,14.4234201
+13,Malta,Ghar Lapsi,Black John,Reef & Wall,Low,4,3.5,Hard,Advanced,12m,40+m,Black John dive site is offshore reef near Ghar Lapsi in Malta with max depth 38m. Black John offers divers some interesting rock formations and halocline.,40.0,35.8268645,14.4234201
+14,Malta,Wied iz-Zurrieq (Blue Grotto),,Cave & Reef & Wall & Wreck,High,1,5.0,Easy,Beginner,5+m,30+m,"Wied iz-Zurrieq is famous for Blue Grotto & Um El Faroud wreck dive. Other dive sites in Wied iz-Zurrieq are East & West Reef, caves, helmet statue and valley.",30.0,,
+15,Malta,Wied iz-Zurrieq,"Um El Faroud (MV Um El Faroud, Um El Farud, Um El Farroud, UEF)",Wreck,High,11,4.9,Easy,Advanced,20m,36m,Um El Faroud is the best wreck dive in Malta. Um El Faroud was scuttled 1998 for scuba diving off Wied iz-Zurrieq. Wreck is at 36m.,36.0,35.819672,14.4529936
+16,Malta,Wied iz-Zurrieq,"West Reef & Caves (West Reef, Right Wall, Bell Tower Cave, Bell Cave)",Cave & Reef & Wall,High,3,3.3,Easy,Advanced,5m,25m,"West Reef & Caves dive site is in Wied iz-Zurrieq. West Reef has drop-offs, ledges, gullies, boulders and two caves, one named Bell Tower Cave.",25.0,35.819672,14.4529936
+17,Malta,Wied iz-Zurrieq,East Reef (Left Wall),Reef & Wall,Medium,3,3.0,Easy,Beginner,5m,36m,East Reef is one of the dive sites in Wied iz-Zurrieq. East Reef is wall dive with max depth over 30m. Often excellent visibility and lots of marine life.,36.0,35.819672,14.4529936
+18,Malta,Wied iz-Zurrieq,Valley,Cave & Reef & Wall,Low,2,2.5,Easy,Beginner,3m,14m,Valley is starting/ending point for shore dives in Wied iz-Zurrieq. Shallow inlet is excellent site for night diving and training dives. Lots of marine life.,14.0,35.819672,14.4529936
+19,Malta,Wied iz-Zurrieq,Blue Grotto Caves,Cave & Reef & Wall,Not dived,1,4.0,Hard,Beginner,3m,14m,"The caverns have a lot to explore, but it's accessible only by boat or about a 40 minutes swim from the valley entry. As it's a popular tourist site, there is also a lot of boat traffic. As a shallow dive site it's also exposed to swell.",14.0,35.819672,14.4529936
+20,Malta,Valletta,,Reef & Wreck,High,2,2.5,Easy,Beginner,5+m,30+m,"Valletta is capital of Malta, located on northeast coast. Dive sites in Valletta are World War II wreck HMS Maori in St. Elmo Bay, and Fort St. Elmo reef.",30.0,35.8989979,14.5136607
+21,Malta,Valletta,"HMS Maori (L24, F24, G24, Maori)",Reef & Wreck,High,10,4.2,Easy,Beginner,12m,16m,"HMS Maori was WWII British destroyer that sunk in 1942. Maori is a shallow wreck dive in Valletta, Malta. Wreck is half buried in sand with max depth 16m.",16.0,35.8989979,14.5136607
+22,Malta,Valletta,"Fort St. Elmo (St. Elmo Reef, Elmo Reef)",Reef,Low,3,2.3,Easy,Advanced,15+m,35+m,"Fort St. Elmo diving site is in Valletta, between Marsamxett and Grand Harbour, at the seaward side of the fort. This is a good reef dive with max depth 35m.",35.0,35.8989979,14.5136607
+23,Malta,Exiles,,Reef & Wreck,High,2,3.0,Easy,Beginner,5m,25m,"Exiles is located in Sliema, northeastern Malta. The dive sites here are Tug 2 wreck, a tugboat scuttled in 2013, and Exiles reef. Max depth is 22m.",25.0,35.9160059,14.49701
+24,Malta,Exiles,"Tug 2 (Tugboat 2, Tug Boat 2, Tuo Lun Er Hao)",Reef & Wreck,High,9,4.1,Easy,Advanced,15m,25m,"Tug Boat 2 is shallow wreck dive off shore Exiles, Sliema, Malta. Tug 2 was 30m tugboat and was scuttled in 2013 for scuba diving. Wreck is upright at 22m.",25.0,35.9160059,14.49701
+25,Malta,Exiles,Exiles Reef,Reef,High,3,2.3,Easy,Beginner,14m,25m,"Exiles Reef dive site in Sliema is a shallow reef with narrow gullies and overhangs, Posidonia seagrass fields and diversity of fish life. Max depth is 20m.",25.0,35.9160059,14.49701
+26,Malta,Exiles,Fireworks Barge,Wreck,Not dived,1,4.0,Medium,Beginner,8m,10m,"Fireworks barge wreck is in St. Julian’s Bay between Spinola and Exiles. Barge sank 2009 after fireworks explosion, and lies on sand at depth 10m.",10.0,35.9160059,14.49701
+27,Malta,Qawra Point,,Cave & Reef & Wall,High,1,3.0,Easy,Beginner,5m,35m,"Qawra Point dive site is on northeast coast of Malta. Diving in Qawra Point includes reefs, caves (Fra Ben Cave and L-Cave), small arch, and shallow bay.",35.0,,
+28,Malta,Qawra Point,Fra Ben Cave,Cave & Reef,High,5,3.6,Medium,Beginner,3m,9m,Fra Ben Cave is shallow cavern dive on north side of Qawra Point. Fra Ben Cave entrance is 100m from entry point at 6m depth. Cavern has an open ceiling.,9.0,,
+29,Malta,Qawra Point,North Reef & Arch (Qawra Point North),Reef,Medium,5,2.4,Medium,Advanced,15m,20m,North Reef & Arch is offshore reef dive on north side of Qawra Point. Wall reef drops from 10m down to 15m. Near the reef there is little arch 18m deep.,20.0,,
+30,Malta,Qawra Point,Qawra Bay (Inner Reef),Reef,High,3,2.0,Easy,Beginner,2m,10m,Qawra Bay is shallow dive site on south east side of Qawra Point. This sheltered bay is suitable for training and try dives. Seabed is sand and seagrass.,10.0,,
+31,Malta,Qawra Point,L-Cave,Cave & Reef & Wall,Low,2,3.5,Medium,Experienced,30m,40m,L-Cave is deep swim-through cave dive off Qawra Point. L-Cave is quite tight L-shaped tunnel with sandy bottom located in small valley at depth around 33m.,40.0,,
+32,Malta,Qawra Point,"Qawra Reef (Qawra Far Reef, Qawra Drop-Off)",Reef,Low,2,2.5,Medium,Experienced,30m,40m,Qawra Reef is offshore dive site off Qawra Point in Malta. Qawra Reef has nice wall with several big beautiful caves/caverns. Depth of dive from 15m to 40m.,40.0,,
+33,Malta,Sliema,,Cave & Reef,High,1,2.0,Easy,Beginner,5+m,15+m,"Sliema is on northeast coast of Malta. Dive sites in Sliema are Fortizza Reef, Coral Gardens & Qui Si Sana, shallow reefs with caverns, tunnels, and gullies.",15.0,35.9127609,14.5020708
+34,Malta,Sliema,Fortizza Reef,Cave & Reef,High,6,4.0,Easy,Beginner,5+m,15+m,"Fortizza Reef is shallow dive site in Sliema. Fortizza Reef has lots of caverns, tunnels, arches, overhangs, valleys, and gullies for divers to explore.",15.0,35.9127609,14.5020708
+35,Malta,Sliema,Coral Gardens,Reef,High,3,3.3,Easy,Beginner,5+m,15+m,Coral Gardens is shallow dive site in Sliema. Coral Gardens reef has valleys and canyons with some interesting rock formations and swimthrough tunnels.,15.0,35.9127609,14.5020708
+36,Malta,Sliema,Qui Si Sana,Reef,Low,2,1.5,Hard,Beginner,5+m,15+m,Qui Si Sana is a shallow reef dive site in Sliema. Qui Si Sana reef is mostly used for dive training and try dives.,15.0,35.9127609,14.5020708
+37,Malta,"Marsaskala (Marsascala, M'skala, M'scala)",,Cave & Reef & Wreck,High,1,2.0,Easy,Beginner,10+m,20+m,"Marsaskala is in south east Malta. Dive sites in Marsaskala are tugboat wrecks St. Michael & Tug 10 scuttled in 1998, Zonqor Point reefs, and Mini Blue Hole.",20.0,,
+38,Malta,Marsaskala,"Tugboat 10 (No 10, Number Ten, Tug 10, MV No.10)",Reef & Wreck,High,5,2.0,Easy,Advanced,20m,24m,"Tugboat 10 is shallow wreck dive in Marsaskala, Malta. Tug 10 is 16m tugboat scuttled 1998 for scuba diving. Wreck is upright at 21m depth.",24.0,35.8629162,14.5591879
+39,Malta,Marsaskala,"St. Michael (St Michael, St Michale)",Reef & Wreck,High,5,3.0,Easy,Advanced,20m,24m,"St. Michael is shallow wreck dive in Marsaskala, Malta. St. Michael was 20m tugboat and was scuttled in 1998 for scuba diving. Wreck is upright at 22m.",24.0,35.8629162,14.5591879
+40,Malta,Marsaskala,P33 (Patrol Boat P33),Wreck,High,3,3.3,Easy,Advanced,20m,24m,P33 is 23m long former patrol boat that was scuttled for divers in Marsaskala 31.7.2021.,24.0,35.8629162,14.5591879
+41,Malta,Marsaskala,Mini Blue Hole (Ghar id-Duhhan),Cave & Reef,Low,4,3.5,Medium,Beginner,10+m,15+m,"Mini Blue Hole dive site is in Marsaskala, Malta. The hole is a natural rock formation connected to the sea by an underwater tunnel. Shallow reefs as well.",15.0,35.8629162,14.5591879
+42,Malta,Marsaskala,Zonqor Point (Ras iz-Zonqor),Reef,Low,1,1.0,Easy,Beginner,5+m,20+m,Zonqor Point dive site in Marsaskala has shallow reefs on both sides of the peninsula. Zonqor Point reefs are shore dives with max depth about 20m.,20.0,35.8629162,14.5591879
+43,Malta,Delimara,,Cave & Reef & Wall & Wreck,Low,1,3.0,Medium,Advanced,12m,30+m,Delimara Point is located in the south east corner of the main island overlooking the Malta Freeport.,30.0,35.8219807,14.5587814
+44,Malta,Delimara,East Reef,Reef,Low,2,2.5,Medium,Beginner,5m,25m,"East reef is the easiest and shallow dive location in Delimara Point, but accessible only on very calm weathers as it's exposed to swells.",25.0,35.8219807,14.5587814
+45,Malta,Delimara,South Reef,Cave & Reef & Wall,Low,2,4.5,Medium,Advanced,12m,30+m,"South reef provides the most interesting wall/reef formations in the Delimara area. Be aware of the boat traffic on the area, DSMB is highly recommended on this dive site.",30.0,35.8219807,14.5587814
+46,Malta,Delimara,Cave,Cave & Reef & Wall,Low,2,4.0,Medium,Experienced,10m,18m,Delimara Cave is a nice chimney style cave located in the south reef. It's definitely something worth checking out when diving in the area.,18.0,35.8219807,14.5587814
+47,Malta,Delimara,Wreck,Reef & Wreck,Low,2,2.0,Medium,Advanced,5m,9m,Delimara Wreck is a decent size sunken and broken up barge in a pretty shallow waters.,9.0,35.8219807,14.5587814
+48,Malta,Anchor Bay (Popeye Village),,Cave & Reef,Medium,4,3.3,Easy,Beginner,6m,12m,"Anchor Bay aka Popeye Village is shore diving site in Malta. Anchor Bay’s best dive is Scorpion Cave, large shallow cavern.",12.0,,
+49,Malta,Anchor Bay,Cave (Scorpion Cave),Cave & Reef,Medium,3,4.0,Easy,Beginner,7m,10m,Scorpion Cave is the best dive site in Anchor Bay. Shallow cave with large entrance is suitable also for less experienced divers.,10.0,35.9598731,14.3405804
+50,Malta,Anchor Bay,Anchor,Reef,Medium,2,1.5,Easy,Beginner,8m,8m,"Anchor Bay dive site features a large anchor and its anchor chain. The anchor is about 3m in length, and lies on sand around 8m deep.",8.0,35.9598731,14.3405804
+51,Malta,Anchor Bay,Reef,Reef,Medium,2,2.0,Easy,Beginner,6m,12m,"Anchor Bay reef is varied dive site with large boulders, swim-throughs, rocky reefs, sea grass meadows and rich marine life.",12.0,35.9598731,14.3405804
+52,Malta,Anchor Bay,Training area,,Medium,2,1.0,Easy,Beginner,1m,6m,Anchor Bay training area is shallow sheltered place ideal for try dives and first course dives.,6.0,35.9598731,14.3405804
+53,Malta,L'Ahrax Point,,Cave & Reef & Wall,Medium,3,3.7,Easy,Beginner,7m,18m,L'Ahrax Point is located on the northernmost point of the main island Malta.,18.0,,
+54,Malta,L'Ahrax Point,Cave,Cave & Reef,Low,2,2.0,Easy,Beginner,5m,10m,There is a small cavern/cave on the very tip of L'Ahrax Point. It can be easily found by following the shore line.,10.0,,
+55,Malta,L'Ahrax Point,North Reef,Reef,Medium,3,3.0,Medium,Beginner,10m,30m,"L'Ahrax Point North Reef provides a long reef with a lots to explore; Rocky boulders, small canyons, swim throughs and sandy posidonia. It's a bit far from the shore entry, so ideally dived off a boat.",30.0,,
+56,Malta,L'Ahrax Point,Tunnel,Cave & Reef,Medium,4,4.3,Medium,Beginner,7m,18m,"The tunnel provides access to the inland sea of L'Ahrax Point. It's open to the surface, so it's accessible by snorkelers also.",18.0,,
+57,Malta,L'Ahrax Point,"Inland Sea (Dragonara Cave, Coral Lagoon, Coral Grotto)",Cave & Reef,Medium,3,4.0,Medium,Beginner,4m,8m,Inland Sea dive site in L'Ahrax Point features a cavern with collapsed roof leaving a large circular opening in the rock faces that rises 10m above sea surface.,8.0,,
+58,Malta,,"Armier Bay (Armier Bay Anchor, Admiralty Anchor)",Reef,Low,0,,Easy,Beginner,5m,8m,Large Admiralty Anchor at Armier Bay,8.0,,
+59,Malta,,"Sirens (Sirens Harbour, Sirens Reef)",,Medium,1,2.0,Easy,Beginner,6m,12m,Sirens dive site is in St. Paul’s Bay in northern Malta. Sirens has shallow reef with max depth 12m and is mainly used for try dives and diving courses.,12.0,,
+60,Malta,,Harq Hamiem Cave (Ghar Harq il-Hammiem),Cave,Not dived,2,5.0,Hard,Technical,20m,52m,"Harq Hammiem Cave in St. Julian's is the only known fully submerged terrestrial cavern in Malta, consisting of two chambers, with max depth 52m.",52.0,,
+61,Malta,,Dornier Wal XI (Dornier Do J),Wreck,Low,3,3.0,Easy,Beginner,5m,6m,Dornier Wal XI is seaplane wreckage in Gnejna Bay. Dornier Do J was German flying boat that crash landed 1932. Plane wreck is 12-15m deep.,6.0,,
+62,Malta,,"SS Margit (MV Odile, Kalkara Creek)",Wreck,Low,4,3.5,Easy,Advanced,16m,24m,SS Margit (MV Odile) is shallow wreck dive in Malta. Margit was a 100m passenger ship that sunk in 1941 in Kalkara Creek. Wreck is at 22m and quite broken.,24.0,,
+63,Malta,,"Slugs Bay (Slug Bay, Slug's Bay)",Reef,Low,3,1.0,Medium,Beginner,5+m,10+m,Slugs Bay is shallow reef dive site in Mellieha Bay in northeast Malta. Slugs Bay has abundance of marine life and a natural rock arch. Max depth 12m.,10.0,,
+64,Malta,,Merkanti Reef (Mercanti Reef),Reef,Low,2,2.5,Medium,Beginner,10+m,20+m,Merkanti Reef is shallow dive site located off St. Julian’s in Malta. Merkanti Reef has many small overhangs and crevices with a variety of marine life.,20.0,,
+65,Malta,,"X127 (X127 Lighter, Carolita, Coralita, X131)",Wreck,Low,5,3.4,Easy,Beginner,8m,25m,X127 is one of the WWII wreck dives around Malta. X127 was British water lighter that sunk 1942. Wreck is in Marsamxett Harbour off Manoel Island at 22m.,25.0,,
+66,Malta,,"Migra Ferha (Migrah il-Ferha, Happy Welcome, The Steps)",Cave & Reef & Wreck,Low,4,4.3,Hard,Experienced,30m,60+m,"Migra Ferha dive site is under Dingli Cliffs in Malta. Migra Ferha has car wrecks, boulders, caves, caverns and overhangs.",60.0,,
+67,Malta,,"Benghisa Point (Benghajsa Point, Il-Ponta ta' Benghajsa)",Reef,Low,2,1.5,Medium,Advanced,4m,20m,Benghisa Point dive site is on south coast of Malta. Benghisa Point is shallow reef dive with some interesting rock formations including an arch. Depth 4-20m.,20.0,,
+68,Malta,,Xrobb Il-Ghagin (Xrobb l-Ghagin),,Low,2,2.0,Easy,Beginner,3m,15m,Not much to see on this dive site called Xrobb Il-Ghagin. Mainly just some nice boulders to explore with an easy entry to the water.,15.0,,
+69,Malta,,Mtahleb,Wall,Low,2,3.0,Hard,Experienced,30m,70+m,"Mtahleb provides some nice caverns and large boulders to explore, but usually divers prefer to dive Migrah Ferha in this area.",70.0,,
+70,Malta,,Rdum il-Qawwi (Rough Cliffs),Cave,Low,1,2.0,Hard,Advanced,6m,45+m,,45.0,,
+71,Malta,,HMS Jersey (F72),Wreck,Not dived,0,,Hard,Advanced,15m,19m,HMS Jersey is WWII wreckage in Malta. Jersey was British destroyer that sunk 1941 in Valletta harbour. After clearance work only some remains left of wreck.,19.0,,
+72,Malta,,Submarine Pen,Wreck,Not dived,0,,Hard,Advanced,18m,30m,,30.0,,
+73,Malta,,Tent Peg Wreck,Wreck,Not dived,0,,Hard,Advanced,15m,20m,"Tent Peg Wreck is old cargo steamer in Marsamxett Harbour between Manoel Island and Ta'Xbiex. Wreck is named after tent pegs cargo, not true shipwreck but wreckage site.",20.0,,
+74,Malta,,Dragonara Point,Reef,Not dived,1,2.0,Hard,Advanced,15m,25m,,25.0,,
+75,Malta,,Ricasoli Cannons (Victorian Guns),Reef,Not dived,1,2.0,Medium,Beginner,6m,12m,"Ricasoli Cannons dive site is in Kalkara, Malta near Fort Ricasoli. There are three cannons in a cavern 2-3m deep. The shallow reef dive has max depth 12m.",12.0,,
+76,Malta,,Il-Qaws (Ras il-Qaws),Cave & Wall,Not dived,1,4.0,Boat only,Advanced,20m,40+m,,40.0,,
+77,Malta,,Xghajra Reef,Cave & Reef,Not dived,1,4.0,Medium,Beginner,8m,18m,Xghajra Reef is labyrinth of small tunnels and caves with low arches. This shore dive site is located east side of Xghajra village. Max depth of reef is 18m.,18.0,,
+78,Malta,,Bristol Beaufighter,Wreck,Low,3,2.7,Boat only,Experienced,35m,38m,Bristol Beaufighter is WWII airplane wreck dive in Malta. Beaufighter sunk in 1943 due to mechanical problems. Plane wreck is upside down at 38m depth.,38.0,,
+79,Malta,,"HMS Hellespont (Hellespont, HMAV Hellespont)",Wreck,Low,4,3.8,Boat only,Experienced,35m,41m,HMS Hellespont is WWII wreck dive in Malta. She was sunk 1942 during air raid and scuttled outside Valletta after the war. Hellespont wreck is at 41m deep.,41.0,,
+80,Malta,,"HM Drifter Eddy (Eddy, HMS Eddy, HMD Eddy, FY12)",Wreck,Low,3,4.0,Boat only,Technical,52m,56m,HM Drifter Eddy is one of the WWII wreck dives in Malta. Eddy sunk after hitting a mine in 1942. 27m long drifter wreck lies outside Valletta at 56m depth.,56.0,,
+81,Malta,,HMS St. Angelo,Wreck,Low,2,4.0,Boat only,Technical,54m,54m,"HMS St. Angelo is WWII wreck dive in Malta. St. Angelo was a tugboat used as a minesweeper, hit a mine and sunk in 1942. Wreck is upright at a depth of 54m.",54.0,,
+82,Malta,,"Schnellboot S-31 (S31, S-31)",Wreck,Low,5,4.2,Boat only,Technical,63m,66m,Schnellboot S-31 is WWII wreck dive in Malta. S-31 was German S-boot that hit mine off Valletta and sunk 1942. Wreck is 65m deep.,66.0,,
+83,Malta,,"Italian E-boat (Eboat, E.boat)",Wreck,Low,3,3.0,Boat only,Technical,45m,45m,,45.0,,
+84,Malta,,"HMS Southwold (Southwold, L10)",Wreck,Medium,5,5.0,Boat only,Technical,67m,73m,"HMS Southwold is WWII wreck dive in Malta. Southwold was sunk by mine 1942. Wreck is in two parts, bow 68m and stern 73m deep.",73.0,,
+85,Malta,,"Le Polynesien (SS Polynesien, The Polynesian, Poly, Tal-Platti, Plate Ship)",Wreck,High,4,5.0,Boat only,Technical,50m,65m,Le Polynesien is WWI wreck dive in Malta. SS Polynesien was 152m French passenger ship sunk by torpedo in 1918. Poly wreck max depth is 65m.,65.0,,
+86,Malta,,Munxar Cave/Reef (Munxar),Cave & Reef,Low,0,,Boat only,Experienced,10m,45+m,,45.0,,
+87,Malta,,Unknown barge,Wreck,Not dived,2,2.5,Boat only,Technical,55m,60m,"Barge wreck is situated off St. Paul’s Bay, with max depth about 60m. Wreck is quite large barge where divers can enter engine room and accommodation area.",60.0,,
+88,Malta,,Benghisa Reef (Benghajsa Reef),Reef,Low,2,3.0,Hard,Advanced,10m,50+m,"Benghisa Reef dive site is 1km off Benghisa Point on south coast of Malta, stretching 1.5km southeast. Benghisa Reef starts from 10m and drops down to 50m.",50.0,,
+89,Malta,,Il Mara,,Low,0,,Boat only,Advanced,8+m,,,,,
+90,Malta,,"Scotscraig (Scot Craig, MV Scotscraig, Popeye’s Barge)",Wreck,Low,2,3.0,Boat only,Beginner,18m,21m,"Scotscraig is wreck dive in Malta. MV Scotscraig was small river ferry, later used in Popeye movie, now boat dive at 21m. Wreck is located near Anchor Bay.",21.0,,
+91,Malta,,"Devil's Reef (Qammieh Point, Ras il-Qammieh)",Cave & Reef & Wall,Low,3,3.0,Boat only,Advanced,6m,50+m,"Qammieh Point aka Devil's Reef is a nice wall dive site with few caves and caverns, starting from a shallow plateau and reaching depths well beyond 50m.",50.0,,
+92,Malta,,Smugglers Cave (Smugglers Reef),Cave & Reef,Low,1,2.0,Boat only,Beginner,3m,18m,,18.0,,
+93,Malta,,"Sikka Il-Bajda (White Reef, Is-Sikka Tal-Kolonna, Hoofer's Reef)",Reef,Low,0,,Boat only,Experienced,20m,42m,,42.0,,
+94,Malta,,"HMS Stubborn (Stubborn, P238)",Wreck,Medium,4,3.8,Boat only,Technical,45m,56m,HMS Stubborn is deep submarine wreck in Malta. Stubborn was 66m British submarine scuttled as sonar training target 1946. Wreck is at 56m depth.,56.0,,
+95,Malta,,MV Imperial Eagle (Imperial Eagle),Wreck,Medium,6,4.2,Boat only,Experienced,32m,42m,"MV Imperial Eagle is deep wreck dive in Malta. Imperial Eagle was 45m long ferry, scuttled in 1999 off Qawra Point. Wreck is upright on at depth 42m.",42.0,,
+96,Malta,,"Statue of Christ (Kristu tal-Bahhara, Kristu l-Bahhar, Christ of the Sailors, Christ of the Seafarers, Jesus of Qawra)",Wreck,Medium,2,4.5,Boat only,Experienced,,35m,Kristu tal-Bahhara (Christ of the Sailors) dive site is underwater statue of Jesus Christ. Statue was sunk 1990 and relocated off Qawra in 2000. Depth max 35m.,35.0,,
+97,Malta,,Ghar it-Trozz,Cave & Wall,Low,3,3.7,Boat only,Advanced,30m,70+m,,70.0,,
+98,Malta,,Ras ir-Raheb (Ras il-Knejjes),Cave & Wall,Low,3,4.3,Boat only,Experienced,30m,70+m,"Ras ir-Raheb dive site has nice cave starting from surface and reaching down to 25m. Rock wall is nearly vertical, sloping down to sandy seabed over 70m deep.",70.0,,
+99,Malta,,Ras id-Dawwara,Wall,Low,1,4.0,Boat only,Experienced,30m,50+m,,50.0,,
+100,Malta,,Rdum l-Ahmar (Red Cliffs),Reef,Low,2,2.5,Boat only,Advanced,25m,35m,,35.0,,
+101,Malta,,Rdum Tal-Vigarju (Blata tal-Melh),Wall,Low,2,3.5,Boat only,Advanced,25m,50+m,,50.0,,
+102,Malta,,St Paul's Reef,Reef,Low,2,3.5,Boat only,Beginner,7m,25m,,25.0,,
+103,Malta,,St Paul's Channel,Reef,Not dived,0,,Medium,Beginner,3m,25m,,25.0,,
+104,Malta,,"Wied Bassasa (Wied Il-Bassasa, L-Ghar ta’ Wied Bassasa, Bassasa Valley)",Cave & Wall,Low,1,4.0,Boat only,Advanced,10m,40+m,,40.0,,
+105,Malta,,Wied Znuber,,Low,0,,Boat only,Advanced,15m,40m,,40.0,,
+106,Malta,,"Bristol Blenheim Bomber (Bristol Blenheim, Blenheim Bomber)",Wreck,Low,3,2.3,Boat only,Experienced,39m,42m,Bristol Blenheim Bomber is WWII airplane wreck dive in Malta. Blenheim was shot in one engine and ditched in the sea in 1941. Plane wreck is at 42m depth.,42.0,,
+107,Malta,,"Levant II (Cable Layer, Cable Ship, Levant 2)",Wreck,Low,2,3.5,Boat only,Technical,55m,59m,Levant II was built 1904 and sunk 1km off Valletta 1952. Cable layer wreck was rediscovered 1999 and identified as Levant II 10 years later. Max depth is 59m.,59.0,,
+108,Malta,,HMS Russell (Russell),Wreck,Low,2,4.5,Boat only,Technical,115m,115m,HMS Russell is WWI wreck in Malta. Russell was British battleship built 1901. She hit mines and sank 1916. Wreck is at 115m depth.,115.0,,
+109,Malta,,"Mosquito Fighter Bomber (de Havilland Mosquito, DH.98 Mosquito)",Wreck,Low,3,2.7,Boat only,Experienced,42m,42m,Mosquito Fighter Bomber is airplane wreck dive in Malta. De Havilland Mosquito crashed in sea due to engine problems in 1949. Plane wreck is 40m deep.,42.0,,
+110,Malta,,MV Pippo (Pippo),Wreck,Low,2,2.0,Boat only,Experienced,30m,36m,MV Pippo is wreck dive off Ahrax Point. Pippo took in water and sank 2004 on its way from Comino to Malta. Small wreck is boat dive at depth 35m on sand.,36.0,,
+111,Malta,,"HMS Kingston (Kingston, F64)",Wreck,Low,1,1.0,Boat only,Advanced,12m,25m,"HMS Kingston is WWII wreckage in Malta. Kingston was British destroyer that sunk at docks in 1942, later used as blockship near Selmun and scrapped there.",25.0,,
+112,Malta,,"HMS Greetham (Greetham, Lady Davinia, Lady Davina)",Wreck,Not dived,0,,Hard,Advanced,15m,17m,,17.0,,
+113,Malta,,HMS Nasturtium (Nasturtium),Wreck,Low,3,5.0,Boat only,Technical,65m,68m,HMS Nasturtium is WWI wreck dive in Malta. Nasturtium was British minesweeping sloop that hit mine and sank in 1916. Wreck is 68m deep.,68.0,,
+114,Malta,,"Cargo Ship Camadan (Camadan, MV Camadan)",Wreck,Not dived,0,,Boat only,Technical,90m,90m,Cargo Ship Camadan is technical wreck dive in Malta. MV Camadan was Turkish 80m long cargo ship that flooded and floundered in 2002. Wreck is at 90m depth.,90.0,,
+115,Malta,,Luciston Collier (SS Luciston),Wreck,Low,1,4.0,Boat only,Technical,95m,105m,Luciston Collier is WWI wreck dive in Malta. SS Luciston was British coal cargo ship (collier) torpedoed 1916. Wreck is at 104m depth.,105.0,,
+116,Malta,,B-24 Liberator Bomber (Consolidated B-24 Liberator),Wreck,Medium,3,4.3,Boat only,Technical,55m,60m,B-24 Liberator Bomber is WWII airplane wreck dive in Malta. B-24 Liberator ditched into sea 1943. Bomber wreck is 55m deep.,60.0,,
+117,Malta,,Reef off Marija's Cave (Reef off Ta’ Marija Cave),Reef & Wall,Not dived,1,3.0,Boat only,Experienced,16m,50+m,,50.0,,
+118,Malta,,Anadrian (Dredger Anadrian),Wreck,Low,3,3.3,Boat only,Technical,55m,65+m,Dredger Anadrian is technical wreck dive in Malta. Anadrian was 40m long grab dredger built in 1952. Wreck is located outside of Bahar ic-Caghaq 65m deep.,65.0,,
+119,Malta,,"Lockheed P2V Neptune (Lockheed P-2 Neptune, Neptune MR.1)",Wreck,Low,3,3.0,Boat only,Advanced,30m,32m,Lockheed P2V Neptune is 2015 discovered airplane wreck dive site in Malta at depth of 30m. Aircraft was damaged during landing and used for filming in 1950s.,32.0,,
+120,Malta,,"HMD Trusty Star (HMS Trusty Star, HMT Trusty Star)",Wreck,Low,3,4.0,Boat only,Technical,85m,90m,HMD Trusty Star is WWII wreck dive in Malta. Trusty Star was British minesweeper that hit mine and sank 1942. Wreck is 90m deep.,90.0,,
+121,Malta,,Unknown Schnellboot,Wreck,Not dived,1,2.0,Boat only,Technical,90m,90m,Unknown Schnellboot,90.0,,
+122,Malta,,Gebel gol-Bahar,Reef,Not dived,0,,Hard,Advanced,19m,19+m,"Ġebel ġol-Baħar is a possible megalithic temple located underwater off the coast of St. Julian's, Malta.",19.0,,
+123,Malta,,"HMS Olympus (N35, Olympus)",Wreck,Low,3,5.0,Boat only,Technical,115m,130m,HMS Olympus is WWII submarine wreck in Malta. Olympus was British submarine that hit mine and sank 1942. Wreck is 130m deep.,130.0,,
+124,Malta,,HMY Aegusa (HMS Aegusa),Wreck,Not dived,0,,Boat only,Technical,75m,76m,"HMY Aegusa is WWI wreck dive in Malta. Aegusa was luxury yacht used as patrol vessel, sank by mine in 1916. Wreck is at 76m depth.",76.0,,
+125,Malta,,HMS Andromeda,Wreck,Not dived,0,,Hard,Advanced,16m,20m,HMS Andromeda is WWII wreck in Malta. The tug sunk in Grand Harbour of Valletta in 1942 during air raid. Andromeda was 27m long and wreck lies 20m deep.,20.0,,
+126,Malta,,"ORP Kujawiak (HMS Oakley, L72)",Wreck,Low,2,4.5,Boat only,Technical,98m,100+m,ORP Kujawiak (HMS Oakley) is WWII wreck dive in Malta. Kujawiak was Polish escort destroyer that hit mine and sank 1942. Wreck is 100m deep.,100.0,,
+127,Malta,,HMS Justified,Wreck,Not dived,0,,Boat only,Technical,90m,90m,,90.0,,
+128,Malta,,Wolf den,Cave,Not dived,0,,Hard,Technical,5m,10m,Small caves about half way between Ghar Lapsi and Wied iz-Zurrieq,10.0,,
+129,Malta,,"Junkers Ju 88 (North) (Ju 88, Junkers 88)",Wreck,Low,5,3.8,Boat only,Technical,55m,55m,Junkers Ju 88 is WWII airplane wreck dive in Malta. Junkers 88 was German twin-engine bomber. Wreck is 55m deep off Bahar ic-Caghaq.,55.0,,
+130,Malta,,Stoker Cave (Stoker's Cave),Cave,Not dived,1,3.0,Boat only,Advanced,20m,30m,Stoker Cave dive site is under Dingli Cliffs on west coast of Malta. Ceiling has formations of stalactites & stalagmites. Stoker Cave is at 20-30m depth.,30.0,,
+131,Malta,,Casper (Kasper),Wreck,Low,0,,Boat only,Experienced,35m,38m,"""Casper"" is unknown wreck in Malta. Discovered 2014 by local dive centre and nicknamed Casper, this wreck lies 38m deep and is badly broken up and twisted.",38.0,,
+132,Malta,,Fairey Swordfish,Wreck,Low,2,3.5,Boat only,Technical,,70m,Fairey Swordfish is WWII airplane wreck dive in Malta. Swordfish was ditched in the sea due engine problems in 1943. Plane wreck lies at 70m depth.,70.0,,
+133,Malta,,MV King Edwin,Wreck,Not dived,0,,Boat only,Technical,103m,112m,MV King Edwin is WWII wreck in Malta. King Edwin was British cargo ship that sank 1943 in Grand Harbour after fire. Wreck is 112m deep.,112.0,,
+134,Malta,,HMS P36,Wreck,Not dived,0,,Boat only,Technical,120m,140m,,140.0,,
+135,Malta,,Small World,Wreck,Not dived,0,,Boat only,Technical,103m,103m,,103.0,,
+136,Malta,,"HMS ML 130 (ML 130, HMML 130, Motor Launch 130)",Wreck,Not dived,0,,Boat only,Technical,110m,110m,,110.0,,
+137,Malta,,HMT Crownsin,Wreck,Not dived,0,,Boat only,Technical,,,,,,
+138,Malta,,Schnellboot S-34,Wreck,Not dived,0,,Boat only,Technical,,,,,,
+139,Malta,,Ghar Hasan,,Low,0,,Boat only,Advanced,15m,40m,,40.0,,
+140,Malta,,"HMS Urge (Urge, N17)",Wreck,Not dived,2,5.0,Boat only,Technical,130m,130m,HMS Urge is WWII submarine wreck in Malta. Urge was 58m British submarine that hit a mine and sank in 1942. Wreck is about 130m deep.,130.0,,
+141,Malta,,"Junkers Ju 88 (South) (Ju 88, Junkers 88, Junkers Ju 88 (Marsaskala))",Wreck,Low,3,4.7,Boat only,Technical,,106m,Junkers Ju 88 is WWII airplane wreck dive in Malta. Junkers 88 was German twin-engine bomber. Wreck is 106m deep off Marsaskala.,106.0,,
+142,Malta,,Douglas A-1 Skyraider,Wreck,Low,1,4.0,Boat only,Technical,,96m,Douglas A-1 Skyraider is airplane wreck dive in Malta. Skyraider ditched into sea 1947. Attack aircraft wreck is 96m deep.,96.0,,
+143,Malta,,"Maryland (Maryland Bomber, Martin Maryland 167, 167)",Wreck,Not dived,1,4.0,Boat only,Technical,67m,70m,The Martin Maryland 167 was a light bomber with a three-member crew. The Maryland lies upside down on a sandy seabed at a depth of 70 metres off the coast of Marsaskala. The site was discovered during a side scan sonar survey in the spring of 2020.,70.0,,
+144,Gozo,Dwejra,,Cave & Reef & Wall,High,3,5.0,Medium,Advanced,15+m,40+m,"Dwejra is the most popular scuba diving site in Gozo. Dive sites in Dwejra include Inland Sea & Tunnel, Azure Reef, Blue Hole, Coral Gardens & Cave and many more.",40.0,36.0535616,14.1882582
+145,Gozo,Dwejra,"Inland Sea & Tunnel (Inland Sea, Tunnel)",Cave & Wall,High,4,3.8,Easy,Advanced,18m,40+m,"Inland Sea is popular dive site in Dwejra, Gozo. Tunnel is 80m long cave connecting Inland Sea to the Mediterranean, offering amazing scuba diving experience.",40.0,36.0535616,14.1882582
+146,Gozo,Dwejra,Blue Hole (Blue Cave),Cave & Wall,High,5,4.4,Medium,Advanced,15m,25m,Blue Hole in Gozo is maybe the most beautiful dive of Maltese Islands. Blue Hole provides entry&exit for other dive sites in Dwejra like Azure Reef & Coral Gardens.,25.0,36.0535616,14.1882582
+147,Gozo,Dwejra,"Azure Reef (Azure Window, Azure Alps)",Reef,High,3,4.0,Medium,Advanced,20+m,40+m,Azure Reef dive site in Gozo formed when Azure Window collapsed 2017. Reef starts just below surface and continues to over 40m depth.,40.0,36.0535616,14.1882582
+148,Gozo,Dwejra,Coral Gardens,Cave & Reef,High,2,3.5,Medium,Beginner,5m,10+m,,10.0,36.0535616,14.1882582
+149,Gozo,Dwejra,Coral Cave,Cave,High,6,4.2,Medium,Advanced,20+m,30+m,Coral Cave dive site is located at Dwejra in western Gozo. Coral Cave is large cavern with colourful corals. Depth 20-30m.,30.0,36.0535616,14.1882582
+150,Gozo,Dwejra,"Rogers Cave (Skuljetti, Big Bear, Little Bear)",Cave & Wall,Medium,2,3.0,Medium,Advanced,15+m,30+m,,30.0,36.0535616,14.1882582
+151,Gozo,Dwejra,Crocodile Rock,Wall,Low,2,4.0,Hard,Advanced,35m,65+m,,65.0,36.0535616,14.1882582
+152,Gozo,Dwejra,"Tal-Barba Cave (Ghar tal-Barba, Tal-Barba, The Beard, 200m Tunnel)",Cave & Wall,Medium,1,4.0,Medium,Advanced,10m,30+m,Tal-Barba dive site is located at Dwejra in western Gozo. Tal-Barba cave reaches 120m inwards and is also known as 200m Tunnel.,30.0,36.0535616,14.1882582
+153,Gozo,Dwejra,"Whale Cave (Ghar in-Niexef, Audrey's Crack)",Cave & Wall,Medium,3,3.0,Medium,Advanced,10m,30+m,Whale Cave dive site is located at Dwejra in western Gozo. Whale Cave is a crack cave open to surface and bottom at 25m depth.,30.0,36.0535616,14.1882582
+154,Gozo,Xatt l-Ahmar (Red Bay),,Cave & Reef & Wall & Wreck,High,2,4.0,Medium,Beginner,15+m,40+m,"Xatt l-Ahmar is popular scuba dive site in Gozo. Dives in Xatt l-Ahmar are deep wrecks Cominoland, Karwela & Xlendi, wall reef with caves, and shallow bay.",40.0,,
+155,Gozo,Xatt l-Ahmar,MV Xlendi (Xlendi),Reef & Wreck,Medium,4,3.8,Medium,Experienced,30m,45m,MV Xlendi is deep wreck dive in Gozo. Xlendi was 80m ro-ro ferry and was scuttled for scuba diving in 1999. Xlendi wreck is upside down at 42m depth.,45.0,36.017731,14.2866895
+156,Gozo,Xatt l-Ahmar,MV Karwela (Karwela),Reef & Wall & Wreck,High,8,4.4,Medium,Experienced,30m,45m,MV Karwela is the most dived wreck in Gozo. Karwela was 50m passenger ferry and was scuttled for scuba diving in 2006. Wreck is upright at 40m depth.,45.0,36.017731,14.2866895
+157,Gozo,Xatt l-Ahmar,MV Cominoland (Cominoland),Reef & Wall & Wreck,High,4,4.0,Medium,Experienced,30m,45m,MV Cominoland is deep wreck dive in Gozo. Cominoland was 40m tourist cruise ship and was scuttled for scuba diving in 2006. Wreck is upright at 40m depth.,45.0,36.017731,14.2866895
+158,Gozo,Xatt l-Ahmar,Xatt l-Ahmar Bay,Cave & Reef,Low,2,1.0,Easy,Beginner,9m,30m,,30.0,36.017731,14.2866895
+159,Gozo,Xatt l-Ahmar,Xatt l-Ahmar Reef,Reef & Wall,Medium,1,2.0,Easy,Beginner,9m,30m,,30.0,36.017731,14.2866895
+160,Gozo,Mgarr ix-Xini,,Cave & Reef & Wall,Medium,2,2.5,Easy,Beginner,5+m,15+m,,15.0,36.0200905,14.2715386
+161,Gozo,Mgarr ix-Xini,"Kantra Caves (Il-Kantra, Mgarr ix-Xini Caves)",Cave & Wall,Medium,3,2.7,Medium,Beginner,6m,14m,,14.0,36.0200905,14.2715386
+162,Gozo,Mgarr ix-Xini,Blat Ta' Bologna (Mgarr ix-Xini Reef),Reef & Wall,Medium,2,2.0,Hard,Advanced,30m,50+m,,50.0,36.0200905,14.2715386
+163,Gozo,Xlendi Bay,,Cave & Reef,Medium,1,3.0,Hard,Beginner,10m,60+m,Xlendi Bay is located on southwest coast of Gozo. Dive sites in Xlendi Bay are beautiful shallow tunnel cave and pretty reef with lots of marine life.,60.0,36.0298848,14.2161926
+164,Gozo,Xlendi Bay,Xlendi Tunnel (Xlendi Cave),Cave,Medium,4,4.0,Hard,Beginner,6m,10m,Xlendi Tunnel dive site is located in Xlendi Bay in Gozo. Beautiful shallow tunnel cave is 70m long with max depth 10m. Suitable for all levels of divers.,10.0,36.0298848,14.2161926
+165,Gozo,Xlendi Bay,Xlendi Reef,Reef,Medium,3,3.0,Hard,Beginner,10m,60+m,"Xlendi Reef dive site is located in Xlendi Bay in Gozo. Shallower inner reef is max 12m, outer reef about 25m with a pinnacle reaching almost to the surface.",60.0,36.0298848,14.2161926
+166,Gozo,Xlendi Bay,"Xlendi Underwater Archaeological park (Xlendi park, Archaeological park)",Wreck,Not dived,0,,Boat only,Technical,105m,105m,The park is made of different wrecks from old times.,105.0,36.0298848,14.2161926
+167,Gozo,Xwejni Bay,,Cave & Reef & Wall,High,2,3.5,Easy,Beginner,15+m,45+m,,45.0,36.0791713,14.2480852
+168,Gozo,Xwejni Bay,"Double Arch (Qbajjar Arch, Double Arches, Twin Arches)",Cave & Reef & Wall,High,5,4.0,Easy,Advanced,30m,45+m,Double Arch dive site in Gozo got its name from two natural rock arches on top of each other. Depth at Double Arch is from 15m to 45m and it's 200m offshore.,45.0,36.0791713,14.2480852
+169,Gozo,Xwejni Bay,Reef,Reef,High,2,2.5,Easy,Beginner,5+m,15+m,,15.0,36.0791713,14.2480852
+170,Gozo,Xwejni Bay,Washing Machine,,High,2,1.0,Easy,Beginner,5+m,15+m,,15.0,36.0791713,14.2480852
+171,Gozo,Xwejni Bay,"Calypso Cave (Calypso Tunnel, Triple Arch)",Cave & Reef & Wall,Low,3,3.7,Medium,Advanced,30m,40+m,,40.0,36.0791713,14.2480852
+172,Gozo,Xwejni Bay,Submarine Cave,Cave & Reef & Wall,High,3,3.0,Medium,Experienced,30m,45+m,,45.0,36.0791713,14.2480852
+173,Gozo,Ras il-Hobz,,Reef & Wall,High,1,3.0,Easy,Beginner,15+m,100+m,,100.0,36.0156263,14.2793976
+174,Gozo,Ras il-Hobz,Middle Finger,Wall,High,5,4.4,Easy,Advanced,12m,100+m,"Ras il-Hobz aka Middle Finger is a pinnacle rising out from depths of 40+m to around 10m. The pinnacle attracts lots of sea life, like Jacks, Dentex and Moray eels.",100.0,36.0156263,14.2793976
+175,Gozo,Ras il-Hobz,East (East Reef),Reef,High,3,3.0,Easy,Beginner,5+m,20+m,,20.0,36.0156263,14.2793976
+176,Gozo,Ras il-Hobz,West (Tal-Fessej),Wall,Medium,3,2.7,Easy,Advanced,20+m,30+m,,30.0,36.0156263,14.2793976
+177,Gozo,Ras il-Hobz,"Fessej Rock (Black Rock, Skoll tal-Fessej)",Wall,Low,3,3.0,Hard,Advanced,30m,50+m,,50.0,36.0156263,14.2793976
+178,Gozo,Reqqa Point,,Cave & Reef & Wall,High,4,4.8,Medium,Advanced,20+m,70+m,,70.0,36.0820017,14.236345
+179,Gozo,Reqqa Point,"The Point (Reqqa Point, Ras ir-Reqqa, Reqqa Reef)",Reef & Wall,High,4,4.8,Medium,Advanced,25m,70+m,,70.0,36.0820017,14.236345
+180,Gozo,Reqqa Point,Shrimp's Cave (Shrimp Cave),Cave & Wall,High,2,3.5,Medium,Advanced,30+m,34m,,34.0,36.0820017,14.236345
+181,Gozo,Reqqa Point,"Billinghurst Cave (Billingshurst Cave, Booming Cave, Railway Tunnel, Ghar ix-Xih, Ghar il-Kbir)",Cave & Wall,High,4,4.5,Medium,Experienced,30m,35m,,35.0,36.0820017,14.236345
+182,Gozo,Reqqa Point,Anchor Reef (Landslide Reef),Reef,Low,2,1.5,Medium,Advanced,15+m,40+m,,40.0,36.0820017,14.236345
+183,Gozo,Reqqa Point,"Bottleneck Cave (Bottleneck, Bottle Cave)",Cave,Low,3,4.0,Medium,Technical,37m,58m,,58.0,36.0820017,14.236345
+184,Gozo,,"Cathedral Cave (Blue Dome, Ghar ir-Rih, Cave of Wind)",Cave & Reef,Medium,5,4.8,Hard,Advanced,12m,30+m,,30.0,,
+185,Gozo,,"Dahlet Qorrot (Dahlet Qorrot Bay, Dahlet il-Qorrot)",,Low,1,2.0,Easy,Beginner,10m,10+m,,10.0,,
+186,Gozo,,Ghar id-Dar,Cave,Low,1,5.0,Boat only,Beginner,,,Ghar id-dar is next to Wied Ir-Raheb in Gozo. Ghar id dar is a truely wonderful cave with air pockets and lots to explore!,,,
+187,Gozo,,Wied il-Mielah,Cave,Low,3,4.7,Boat only,Beginner,20m,50+m,Wied il-Mielah dive site in north Gozo has window/archway over the sea. For divers there are two beautiful caves and a swim through near a shallow reef.,50.0,,
+188,Gozo,,Marsalforn (Marsalforn Bay),,Low,1,2.0,Easy,Beginner,3m,10+m,,10.0,,
+189,Gozo,,Mistra Rocks (Mistra Rock),,Not dived,0,,Medium,Beginner,,,,,,
+190,Gozo,Hondoq (Hondoq Bay),,,Low,1,1.0,Easy,Beginner,5+m,15+m,,15.0,36.0282674,14.3229448
+191,Gozo,Hondoq,Hondoq Reef,Reef,Low,1,2.0,Easy,Beginner,5+m,15+m,,15.0,36.027901,14.3220828
+192,Gozo,,"Tac-Cawla Rocks (Il-Gebla Tac-Cawla, Tac-Cawl Rock, Mgarr Rock)",Cave,Not dived,0,,Hard,Beginner,5+m,10+m,,10.0,,
+193,Gozo,,"Gebel tal-Halfa (Il-Gebla tal-Halfa, Halfa Rock, Oath Isle)",,Not dived,0,,Hard,Beginner,,,,,,
+194,Gozo,,Newwiela Point (Ras In-Newwiela),Wall,Low,3,4.0,Boat only,Advanced,25m,60+m,Newwiela Point in southern Gozo has a shallow plateau surrounded by a steep drop-off and wall with large boulders reaching depths beyond 60 meters.,60.0,,
+195,Gozo,,Ta'Cenc Reef (Ta'Cenc),Cave & Reef,Low,2,4.0,Boat only,Advanced,25m,37m,,37.0,,
+196,Gozo,,Sanap Cliffs,Wall,Low,2,3.5,Boat only,Advanced,8+m,40+m,,40.0,,
+197,Gozo,,Dawra Tas-Sanap,Cave & Reef & Wall,Low,2,4.0,Boat only,Beginner,15m,65+m,Dawra Tas-Sanap in Gozo has shallow reef with arch and cave. Deeper down the reef contains massive boulders and caverns ending at sandy bottom around 65m.,65.0,,
+198,Gozo,,Ulysses Cave,Cave,Low,2,3.5,Boat only,Advanced,10+m,45+m,,45.0,,
+199,Gozo,,Zurziep Reef,Cave & Reef & Wall,Low,2,3.5,Boat only,Beginner,20m,60+m,Zurziep Reef starts from a platform at depth of 5m. From there the site slopes down to 60+m offering few big boulders and small swim-throughs on the way.,60.0,,
+200,Gozo,,Wardija Point (Il-Ponta tal-Wardija),Wall,Low,2,3.0,Boat only,Experienced,25m,40+m,,40.0,,
+201,Gozo,,"Fungus Rock (Mushroom Rock, General's Rock, Ġebla tal-Ġeneral, Blata tal-General, Ħaġret il-Ġeneral)",Wall,Low,3,4.3,Boat only,Advanced,30m,60+m,Fungus Rock is a boat dive site at Dwejra in Gozo. Fungus Rock is an islet at the entrance of Dwejra Bay. This is a wall dive with depths over 60m.,60.0,,
+202,Gozo,,San Dimitri Point (San Dimitri),Wall,Low,2,4.0,Boat only,Advanced,25m,60+m,,60.0,,
+203,Gozo,,Wied ir-Raheb,Cave,Low,1,5.0,Boat only,Advanced,25m,70+m,,70.0,,
+204,Gozo,,Ta'Camma Caves (Ta’Cama Caves),Cave & Wall,Low,1,5.0,Boat only,Advanced,25+m,35+m,,35.0,,
+205,Gozo,,Halq Hamiem,Cave,Low,1,3.0,Boat only,Beginner,6+m,20+m,,20.0,,
+206,Gozo,,Hekka Point (Hekka Cave),Cave,Low,1,4.0,Boat only,Advanced,15+m,30+m,,30.0,,
+207,Gozo,,Tac-Cawla Caves (Gudja Cave),Cave,Low,1,5.0,Boat only,Experienced,,35m,,35.0,,
+208,Gozo,,"Il-Margun (Pinu Point, Ghar Tal-Margun)",Cave,Low,1,3.0,Boat only,Advanced,10+m,40+m,,40.0,,
+209,Gozo,,Forna Point (Ras il-Forna),Wall,Low,1,4.0,Boat only,Advanced,5+m,40+m,,40.0,,
+210,Gozo,,"Ras Il-Kanun (Ta Lenk, Ghar il-Qamh, Cave of Wheat)",Cave & Reef & Wall,Medium,3,2.7,Medium,Beginner,10m,30+m,,30.0,,
+211,Gozo,,"Qala Quarry (Qala Anchors, Ghar Dorf Anchors)",Reef,Low,1,2.0,Boat only,Beginner,6m,35m,The reef slowly slopes down from 6m to around 35m to a sandy bottom. There are four big anchors around the area.,35.0,,
+212,Gozo,,Phoenician Shipwreck (Tower Wreck),Wreck,Not dived,1,5.0,Boat only,Technical,105m,110m,Phoenician shipwreck is 2700 years old wreck near Xlendi Bay in Gozo at 110m depth which is also called a Tower Wreck. Phoenician shipwreck's cargo includes grinding stones and amphorae.,110.0,,
+213,Gozo,,Ras Il-Qala (Qala Point),Reef,Low,0,,Boat only,Beginner,10m,15m,,15.0,,
+214,Gozo,Xatt l-Ahmar,"Hephaestus (MT Hephaestus, M/S Hephaestus)",Wreck,Medium,3,4.3,Medium,Experienced,32m,42m,Hephaestus is an oil tanker that was scuttled to Xatt l-Ahmar on 29.8.2022 as an underwater attraction. Togo-registered Hephaestus is about 60 m in length with a beam of 8 m.,42.0,36.017731,14.2866895
+215,Gozo,,"Spitfire Mk V (Spitfire, Supermarine Spitfire)",Wreck,Not dived,1,4.0,Boat only,Technical,70m,70m,The history of the Spitfire wreck located off the coast of Gozo is linked to Operation Husky – the Allied invasion of Sicily (10 July 1943-17 August 1943).The aircraft is located upright on a sandy seabed at a depth of 70 metres.,70.0,,
+216,Comino,Cominotto,,Cave & Reef & Wall,High,0,,Boat only,Advanced,10+m,50+m,,50.0,36.0134167,14.3200295
+217,Comino,Cominotto,Inner Cominotto (Inner Cominotto Reef),Reef,Low,2,2.5,Medium,Advanced,9m,22m,,22.0,36.0134167,14.3200295
+218,Comino,Cominotto,Alex's Cave (Cominotto Cave),Cave,Low,2,4.0,Hard,Beginner,8m,16m,,16.0,36.0134167,14.3200295
+219,Comino,Cominotto,"Anchor Reef (Lautier's Reef, Sikka Tal Lautier)",Reef,Low,2,3.0,Hard,Beginner,18m,36m,,36.0,36.0134167,14.3200295
+220,Comino,Cominotto,Cominotto Rock (Cominotto Reef),Reef & Wall,Low,2,3.0,Hard,Advanced,10m,50+m,,50.0,36.0134167,14.3200295
+221,Comino,Cominotto,Blue Lagoon,,Not dived,1,1.0,Easy,Beginner,3m,14m,,14.0,36.0134167,14.3200295
+222,Comino,Lantern Point (Ras L-Irqieqa),,Cave & Reef & Wall,Low,1,4.0,Boat only,Advanced,30m,50m,,50.0,,
+223,Comino,Lantern Point,Lighthouse Reef (Outer Lantern Point),Cave & Reef & Wall,Low,2,3.5,Boat only,Advanced,30m,50m,,50.0,36.00394,14.3248016
+224,Comino,Lantern Point,Inner Lantern Point (Lantern Point West),Reef & Wall,Low,2,3.0,Boat only,Advanced,30m,50m,,50.0,36.00394,14.3248016
+225,Comino,,"P31 (Patrol Boat 31, Pasewalk)",Wreck,High,4,3.5,Boat only,Beginner,15m,20m,Patrol Boat P31 (Pasewalk) is the only wreck dive site around Comino. P31 was 52m patrol boat scuttled 2009 off Comino. Wreck is at 18-20m depth.,20.0,,
+226,Comino,,The Canyon,Cave,Not dived,0,,Medium,Advanced,7m,20m,,20.0,,
+227,Comino,,Comino's Delight,,Low,1,2.0,Hard,Beginner,6m,12m,,12.0,,
+228,Comino,,Santa Marija Reef,Reef,Medium,2,3.0,Hard,Beginner,9m,21m,,21.0,,
+229,Comino,,"Santa Marija Caves (Comino Caves, Ghemieri Caves)",Cave,Medium,5,4.4,Boat only,Beginner,7m,10m,,10.0,,
+230,Comino,,Elephant Rock (Santa Marija Tunnel),Cave,Low,1,2.0,Boat only,Beginner,6m,6m,,6.0,,
+231,Comino,,Sultan Rock,,Not dived,0,,Boat only,Advanced,8m,18m,,18.0,,
+232,Comino,,Crystal Lagoon,Reef,Low,1,2.0,Boat only,Advanced,9m,22m,,22.0,,
+233,Filfla,,Filfla,Reef,Low,2,4.5,Boat only,Advanced,25m,70+m,,70.0,,
