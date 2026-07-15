@@ -1,6 +1,6 @@
 # 🤿 Dive Spots
 
-Data science projects analyzing dive sites around the world.
+Analyzing dive sites around the world.
 
 ## Projects
 
